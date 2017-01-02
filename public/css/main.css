@@ -1,0 +1,39 @@
+body {
+  background-color: #EDEFED;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  color: #222; }
+
+main {
+  min-height: 100%; }
+
+a {
+  color: #222; }
+
+h1 {
+  text-align: center; }
+
+h3 {
+  font-size: 2rem; }
+
+.landing-image-wrapper {
+  background-color: white;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh; }
+
+nav {
+  background-color: #4A494C; }
+
+nav .brand-logo {
+  font-family: "Lato", sans-serif !important;
+  letter-spacing: 1px;
+  font-size: 1.4rem !important;
+  padding-left: 2vw !important; }
+
+footer.page-footer {
+  margin-top: 60px;
+  background-color: #4A494C; }
+
+/*# sourceMappingURL=main.css.map */

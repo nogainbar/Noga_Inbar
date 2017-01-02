@@ -1,0 +1,32 @@
+{
+  "name": "noga_inbar",
+  "version": "1.0.0",
+  "description": "noga inbar personal portfolio website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "sass": "sass --watch public/css/sass/main.scss:public/css/main.css",
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nogainbar/Noga_Inbar.git"
+  },
+  "keywords": [
+    "noga_inbar"
+  ],
+  "author": "noga_inbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nogainbar/Noga_Inbar/issues"
+  },
+  "homepage": "https://github.com/nogainbar/Noga_Inbar#readme",
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "hapi": "^16.1.0",
+    "inert": "^4.1.0",
+    "vision": "^4.1.1"
+  }
+}
