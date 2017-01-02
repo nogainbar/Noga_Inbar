@@ -16,19 +16,21 @@
   padding-bottom: 86px;
   list-style: none;
   padding: 0;
-
   li {
-
     float: left;
     width: 50%;
+
+    div {
+      -webkit-perspective: 1300px;
+      position: relative;
+      margin-right: 14px;
+    }
 
     .image {
       display: block;
       position: relative;
       margin-bottom: 14px;
-
-
-      margin-right: 14px;
+      padding: 0;
     }
 
     .red {
@@ -58,14 +60,3 @@
     }
   }
 }
-
-
-
-
-
-
-// .body {
-//   background-color: #f5f5f5;
-//   width: 100vw;
-//   height: 100vh;
-// }
