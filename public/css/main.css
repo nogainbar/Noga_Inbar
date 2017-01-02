@@ -30,11 +30,15 @@ h3 {
   .projects-lists li {
     float: left;
     width: 50%; }
+    .projects-lists li div {
+      -webkit-perspective: 1300px;
+      position: relative;
+      margin-right: 14px; }
     .projects-lists li .image {
       display: block;
       position: relative;
       margin-bottom: 14px;
-      margin-right: 14px; }
+      padding: 0; }
     .projects-lists li .red {
       width: 100%;
       height: 300px;
