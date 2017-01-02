@@ -1,8 +1,16 @@
 nav {
-  background-color: $main-text-dark;
+  // position: fixed;
+      left: 0;
+      top: 0;
+      background: #fff;
+      width: 100%;
+      min-width: 980px;
+      height: 94px;
+      // z-index: 900;
 }
 
-nav .brand-logo {
+.logo {
+  color: #494b4d;
   font-family: $lato!important;
   letter-spacing: 1px;
   font-size: 1.4rem !important;
