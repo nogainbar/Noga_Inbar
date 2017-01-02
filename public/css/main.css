@@ -17,16 +17,18 @@ h1 {
 h3 {
   font-size: 2rem; }
 
-.landing-image-wrapper {
-  background-color: white;
-  background-repeat: no-repeat;
+.body {
+  background-color: #fffce1;
   width: 100vw;
   height: 100vh; }
 
 nav {
-  background-color: #4A494C; }
+  background-color: #fff;
+  width: 100vw;
+  height: 94px; }
 
-nav .brand-logo {
+nav .logo {
+  color: #494b4d;
   font-family: "Lato", sans-serif !important;
   letter-spacing: 1px;
   font-size: 1.4rem !important;

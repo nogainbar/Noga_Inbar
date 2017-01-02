@@ -1,8 +1,11 @@
 nav {
-  background-color: $main-text-dark;
+  background-color: #fff;
+  width: 100vw;
+  height: 94px;
 }
 
-nav .brand-logo {
+nav .logo {
+  color: #494b4d;
   font-family: $lato!important;
   letter-spacing: 1px;
   font-size: 1.4rem !important;
