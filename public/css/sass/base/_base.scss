@@ -15,8 +15,22 @@ a {
 
 h1 {
   text-align: center;
+  font-family: $lato;
+}
+
+h2 {
+font-size: 24px;
+line-height: 30px;
+font-family: $lato;
 }
 
 h3 {
-  font-size: 2rem;
+font-size: 16px;
+line-height: 24px;
+font-family: $lato;
+}
+
+p {
+  font-family: $open-sans;
+  font-size: 18px;
 }
