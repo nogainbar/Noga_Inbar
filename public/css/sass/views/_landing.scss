@@ -42,6 +42,17 @@
   height: 700px;
   display: flex;
 }
+
+.text-container {
+  h2 {
+    padding: 35px 30px 15px;
+  }
+
+  h3{
+    padding: 0 30px;
+  }
+}
+
 .hide-child .child {
   transition: opacity 0.25s ease-in!important;
 }
