@@ -16,13 +16,22 @@
 }
 
 #header .logo {
-  font-family: $open-sans;
-  font-size: 24px;
   display: block;
-  float: left;
-  margin-top: 26px;
-  margin-left: -13px;
-  color: #494b4d;
+    float: left;
+    // text-indent: -5000px;
+    margin-top: 10px;
+    background: url(../assets/nogaLogosmall.png) no-repeat 0 0;
+    width: 550px;
+    height: 70px;
+
+  //
+  // font-family: $open-sans;
+  // font-size: 24px;
+  // display: block;
+  // float: left;
+  // margin-top: 26px;
+  // margin-left: -13px;
+  // color: #494b4d;
   a {
     text-decoration: none;
     outline: none;
