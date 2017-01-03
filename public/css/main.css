@@ -104,6 +104,10 @@ h3 {
       -webkit-perspective: 1300px;
       position: relative; }
 
+section {
+  padding-top: 122px;
+  display: block; }
+
 #header {
   position: fixed;
   left: 0;
