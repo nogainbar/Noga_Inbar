@@ -1,5 +1,4 @@
 
-
 $(document).ready(function() {
 
   console.log("hire me! im fun to work with and I love beautiful things! :)");
