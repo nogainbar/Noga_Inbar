@@ -63,7 +63,7 @@ h3 {
   font-size: 2rem; }
 
 #section {
-  padding-top: 122px;
+  padding-top: 130px;
   display: block; }
 
 .centered {
@@ -104,49 +104,16 @@ section {
   padding-top: 122px;
   display: block; }
 
-#header {
-  position: fixed;
-  left: 0;
-  top: 0;
+.nav {
   background: #fff;
-  width: 100%;
-  min-width: 980px;
-  height: 94px;
-  z-index: 900; }
-  #header div {
-    position: relative; }
+  font-family: "Open Sans", sans-serif; }
 
-#header .logo {
+.logo {
   display: block;
   float: left;
   margin-top: 10px;
   background: url(../assets/nogaLogosmall.png) no-repeat 0 0;
   width: 550px;
   height: 70px; }
-  #header .logo a {
-    text-decoration: none;
-    outline: none; }
-
-#header .main-nav {
-  overflow: hidden;
-  position: absolute;
-  left: 70%;
-  top: 30px;
-  margin-left: 7px;
-  list-style: none;
-  font-family: "Open Sans", sans-serif; }
-  #header .main-nav li {
-    float: left;
-    line-height: 52px; }
-    #header .main-nav li .active a {
-      color: #494b4d; }
-    #header .main-nav li a {
-      font-size: 16px;
-      color: #b9bbbd;
-      outline: none; }
-    #header .main-nav li a:hover {
-      color: #494b4d; }
-  #header .main-nav li + li {
-    padding-left: 40px; }
 
 /*# sourceMappingURL=main.css.map */

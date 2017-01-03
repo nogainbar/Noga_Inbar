@@ -1,94 +1,14 @@
-
-#header {
-  position: fixed;
-  left: 0;
-  top: 0;
+.nav {
   background: #fff;
-  width: 100%;
-  min-width: 980px;
-  height: 94px;
-  z-index: 900;
-
-    div {
-      position: relative;
-    }
-
+  font-family: $open-sans;
 }
 
-#header .logo {
+
+.logo {
   display: block;
     float: left;
-    // text-indent: -5000px;
     margin-top: 10px;
     background: url(../assets/nogaLogosmall.png) no-repeat 0 0;
     width: 550px;
     height: 70px;
-
-  //
-  // font-family: $open-sans;
-  // font-size: 24px;
-  // display: block;
-  // float: left;
-  // margin-top: 26px;
-  // margin-left: -13px;
-  // color: #494b4d;
-  a {
-    text-decoration: none;
-    outline: none;
-  }
 }
-
-#header .main-nav {
-  overflow: hidden;
-  position: absolute;
-  left: 70%;
-  top: 30px;
-  margin-left: 7px;
-  list-style: none;
-  font-family: $open-sans;
-  li {
-    float: left;
-    line-height: 52px;
-      .active a {
-        color: #494b4d;
-      }
-      a {
-        font-size: 16px;
-        color: #b9bbbd;
-        outline: none;
-      }
-      a:hover {
-        color: #494b4d;
-      }
-  }
-
-  li +li {
-    padding-left: 40px;
-  }
-}
-
-
-
-
-
-
-
-
-// nav {
-//   // position: fixed;
-//       left: 0;
-//       top: 0;
-//       background: #fff;
-//       width: 100%;
-//       min-width: 980px;
-//       height: 94px;
-//       // z-index: 900;
-// }
-//
-// .logo {
-//   color: #494b4d;
-//   font-family: $lato!important;
-//   letter-spacing: 1px;
-//   font-size: 1.4rem !important;
-//   padding-left: 2vw !important;
-// }
