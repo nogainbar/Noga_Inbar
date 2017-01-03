@@ -76,7 +76,7 @@ p {
 
 #section {
   display: block;
-  padding-top: 10px; }
+  padding-top: 15px; }
 
 .centered {
   margin: auto;
@@ -93,6 +93,9 @@ p {
   display: block;
   position: relative;
   padding: 0; }
+
+.neighbours {
+  background: url(../assets/neighboursBIG2.png) no-repeat 0 0; }
 
 .paBox {
   padding-right: 10px;

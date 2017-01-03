@@ -2,7 +2,7 @@
 
 #section {
   display: block;
-  padding-top: 10px;
+  padding-top: 15px;
 }
 
 .centered {
@@ -22,6 +22,10 @@
   display: block;
   position: relative;
   padding: 0;
+}
+
+.neighbours {
+background: url(../assets/neighboursBIG2.png) no-repeat 0 0;
 }
 
 .paBox {
