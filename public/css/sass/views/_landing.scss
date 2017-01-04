@@ -24,10 +24,6 @@
   padding: 0;
 }
 
-// .neighbours {
-// background: url(../assets/neighboursBIG2.png) no-repeat 0 0;
-// }
-
 .paBox {
   padding-right: 10px;
   padding-bottom: 10px;
@@ -58,4 +54,11 @@
 
 .hide-child .child {
   transition: opacity 0.25s ease-in!important;
+}
+.gifProps {
+  background-size: contain!important;
+}
+
+.aspect-ratio--4x6 {
+  padding-bottom: 151%!important;
 }
