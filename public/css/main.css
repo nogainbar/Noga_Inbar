@@ -116,20 +116,19 @@ p {
 .hide-child .child {
   transition: opacity 0.25s ease-in !important; }
 
+.gifProps {
+  background-size: contain !important; }
+
+.aspect-ratio--4x6 {
+  padding-bottom: 151% !important; }
+
 section {
   padding-top: 122px;
   display: block; }
 
 .nav {
   background: #fff;
-  font-family: "Open Sans", sans-serif; }
-
-.logo {
-  display: block;
-  float: left;
-  margin-top: 10px;
-  background: url(../assets/nogaLogo.svg) no-repeat 0 0;
-  width: 550px;
-  height: 70px; }
+  font-family: "Open Sans", sans-serif;
+  height: 100px; }
 
 /*# sourceMappingURL=main.css.map */
