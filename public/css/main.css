@@ -116,9 +116,6 @@ p {
 .hide-child .child {
   transition: opacity 0.25s ease-in !important; }
 
-.gifProps {
-  background-size: contain !important; }
-
 .aspect-ratio--4x6 {
   padding-bottom: 151% !important; }
 
