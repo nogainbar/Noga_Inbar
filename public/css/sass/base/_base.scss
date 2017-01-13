@@ -14,23 +14,32 @@ a {
 }
 
 h1 {
+  font-size: 30px;
   text-align: center;
-  font-family: $lato;
+  font-family: $work-sans;
+  font-weight: 300;
 }
 
 h2 {
 font-size: 24px;
 line-height: 30px;
-font-family: $lato;
+font-family: $work-sans;
 }
 
 h3 {
 font-size: 16px;
 line-height: 24px;
-font-family: $lato;
+font-family: $work-sans;
 }
 
 p {
-  font-family: $open-sans;
+  font-family: $rubik;
   font-size: 18px;
+  line-height: 24px;
+}
+
+.centered {
+  margin: auto;
+  padding: 0 50px;
+  max-width: 1410px;
 }
