@@ -10,7 +10,8 @@ main {
 }
 
 a {
-
+font-weight: 400;
+color: #333;
 }
 
 h1 {
@@ -33,8 +34,10 @@ font-family: $work-sans;
 }
 
 p {
+  color: #333;
   font-family: $rubik;
   font-size: 18px;
+  font-weight: 300;
   line-height: 24px;
 }
 
