@@ -1,3 +1,30 @@
-<section class="contact">
-  <h1>contact</h1>
+<section id="form_section">
+  <div class="centered">
+    <h2>Get in touch if you'd like to chat more.</h2>
+
+    <form class="form" id="form" action="https://formspree.io/noga.inbar@gmail.com"
+    method="POST">
+
+    <label>
+      <input type="text" id="fname" name="name"  placeholder="Name" required>
+      <span>Name</span>
+    </label>
+
+    <label>
+      <input type="email" name="email" placeholder="Email" required>
+      <span>Email</span>
+    </label>
+
+    <label>
+      <textarea name="comment" form="form" placeholder="Message"></textarea>
+      <span>Message</span>
+    </label>
+
+    <input type="submit" value="Send" name="action">
+  </form>
+</div>
 </section>
+
+<!-- <section class="contact">
+  <h1>contact</h1>
+</section> -->

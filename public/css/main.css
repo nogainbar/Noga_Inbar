@@ -67,6 +67,7 @@ h1 {
   font-weight: 300; }
 
 h2 {
+  text-align: center;
   font-size: 24px;
   line-height: 30px;
   font-family: "Work Sans", sans-serif; }
@@ -131,6 +132,65 @@ p {
 section {
   padding-top: 122px;
   display: block; }
+
+#form_section {
+  display: block;
+  padding-top: 10%; }
+
+.centered {
+  padding-top: 15%;
+  margin: auto;
+  padding: 0 50px;
+  max-width: 1410px; }
+  .centered form {
+    display: table;
+    margin: 33px auto; }
+    .centered form label {
+      position: relative;
+      display: block; }
+      .centered form label input, .centered form label textarea {
+        font: 18px "Work Sans", sans-serif;
+        box-sizing: border-box;
+        display: block;
+        border: none;
+        padding: 20px;
+        width: 500px;
+        margin-bottom: 20px;
+        font-size: 18px;
+        outline: none;
+        transition: all 0.2s ease-in-out; }
+        .centered form label input::placeholder, .centered form label textarea::placeholder {
+          transition: all 0.2s ease-in-out;
+          color: #999;
+          font: 18px "Work Sans", sans-serif; }
+        .centered form label input:focus, .centered form label input.populated, .centered form label textarea:focus, .centered form label textarea.populated {
+          padding-top: 28px;
+          padding-bottom: 12px; }
+          .centered form label input:focus::placeholder, .centered form label input.populated::placeholder, .centered form label textarea:focus::placeholder, .centered form label textarea.populated::placeholder {
+            color: transparent; }
+          .centered form label input:focus + span, .centered form label input.populated + span, .centered form label textarea:focus + span, .centered form label textarea.populated + span {
+            opacity: 1;
+            top: 10px; }
+      .centered form label span {
+        color: #7262C9;
+        font: 13px "Work Sans", sans-serif;
+        position: absolute;
+        top: 0px;
+        left: 20px;
+        opacity: 0;
+        transition: all 0.2s ease-in-out; }
+    .centered form input[type="submit"] {
+      transition: all 0.2s ease-in-out;
+      font: 18px "Work Sans", sans-serif;
+      border: none;
+      background: #7262C9;
+      color: #fff;
+      padding: 16px 40px; }
+      .centered form input[type="submit"]:hover {
+        cursor: pointer;
+        background: #fff;
+        border: 1px solid #7262C9;
+        color: #7262C9; }
 
 section {
   padding-top: 122px;
