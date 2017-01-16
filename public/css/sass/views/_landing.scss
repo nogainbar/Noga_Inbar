@@ -1,8 +1,10 @@
-
+.landing_img {
+  height: 149vh;
+}
 
 #section {
   display: block;
-  padding-top: 15px;
+  padding-top: 0px;
 }
 
 .projects-lists {
@@ -39,10 +41,12 @@
 .text-container {
   h2 {
     padding: 35px 30px 15px;
+    text-align: left;
   }
 
   h3{
     padding: 0 30px;
+    text-align: left;
   }
 }
 
