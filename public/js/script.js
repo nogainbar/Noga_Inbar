@@ -7,8 +7,8 @@ $(document).ready(function() {
   $('.fadeOnLoad').fadeIn('slow');
 
     AOS.init({
-          offset: 400,
-          duration: 500,
+          offset: 50,
+          duration: 400,
           easing: 'ease-in-sine',
           delay: 100,
         });
