@@ -1,7 +1,19 @@
 .nav {
-  background: #fff;
   font-family: $work-sans;
-  // font-family: $work-sans;
-  // font-family: $archivo;
-  height: 100px;
+  z-index: 1000;
+}
+
+.portfolio {
+  padding-right: 60px;
+}
+
+.contact {
+ margin-right: 0;
+}
+
+.about {
+  padding-right: 60px;
+}
+.mr4-l {
+  margin-left: -1rem;
 }
