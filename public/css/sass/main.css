@@ -89,6 +89,14 @@ p {
   font-weight: 300;
   line-height: 24px; }
 
+.project-header {
+  font-size: 50px;
+  text-align: center;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 200;
+  color: #BFBFBA;
+  padding-top: 6%; }
+
 .centered {
   margin: auto;
   padding: 0 50px;
@@ -152,12 +160,15 @@ p {
   width: 98%;
   padding-top: 0; }
 
-.neighbours-one {
+.project-img {
   height: 100vh;
   margin-top: 100px;
   margin-bottom: 40px;
   max-width: 100%;
   width: 100%; }
+
+#neinghbours-one {
+  margin-top: 50px; }
 
 #form_section {
   display: block;
