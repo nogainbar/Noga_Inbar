@@ -170,6 +170,13 @@ p {
 #neinghbours-one {
   margin-top: 50px; }
 
+.description {
+  margin: auto;
+  padding: 0 50px;
+  max-width: 550px; }
+  .description p {
+    color: #999999; }
+
 #form_section {
   display: block;
   padding-top: 11%; }
