@@ -46,6 +46,16 @@ p {
   line-height: 24px;
 }
 
+.project-header {
+  font-size: 50px;
+  text-align: center;
+  font-family: $work-sans;
+  // font-family: $rubik;
+  font-weight: 200;
+  color: #BFBFBA;
+  padding-top: 6%;
+}
+
 .centered {
   margin: auto;
   padding: 0 50px;
