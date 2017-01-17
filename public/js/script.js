@@ -9,10 +9,12 @@ $(document).ready(function() {
          var scrollTop = $(window).scrollTop();
 
          if (scrollTop >= height - 100) {
-             $('.nav').addClass('solid-nav');
+             $('.landingNav').addClass('solid-nav');
              console.log('yo!');
+             $('.landing_nav_items').addClass('items_colour_change');
          } else {
-             $('.nav').removeClass('solid-nav');
+             $('.landingNav').removeClass('solid-nav');
+             $('.landing_nav_items').removeClass('items_colour_change');
          }
 
      });
