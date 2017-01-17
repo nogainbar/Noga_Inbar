@@ -1,4 +1,22 @@
-section {
-  padding-top: 122px;
-  display: block;
+.portfolio-container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.project-container {
+  margin-left: 1%;
+  margin-right: 1%;
+  width: 98%;
+  padding-top: 0;
+}
+
+.neighbours-one {
+  height: 100vh;
+  margin-top: 100px;
+  margin-bottom: 40px;
+  max-width: 100%;
+  width: 100%;
 }
