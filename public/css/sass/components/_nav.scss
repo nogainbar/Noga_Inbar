@@ -1,17 +1,22 @@
 .wrapperNav {
-  height: 985px;
+  height: 200px;
 }
 .nav {
   font-family: $work-sans;
   z-index: 1000;
-  transition: background-color 0.6s linear;
+  transition: background-color 0.3s linear;
+}
+
+.landingNav {
+  font-family: $work-sans;
+  z-index: 1000;
+  transition: background-color 0.3s linear;
   position: fixed;
 }
 
 .solid-nav {
-    background-color: $blue;
-    opacity: 0.8;
-    transition: background-color 0.6s
+    background-color: $offwhite;
+    transition: background-color 0.3s
 }
 
 .portfolio {
@@ -25,6 +30,31 @@
 .about {
   padding-right: 60px;
 }
+
+.landing_nav_items {
+  a {
+    color: $offwhite;
+  }
+}
+
+.items_colour_change {
+  a {
+    color: $blue;
+  }
+}
+
+.portfolio_landing {
+  padding-right: 60px;
+}
+
+.contact_landing {
+ margin-right: 0;
+}
+
+.about_landing {
+  padding-right: 60px;
+}
+
 .mr4-l {
   margin-left: -1rem;
 }
