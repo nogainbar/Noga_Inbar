@@ -1,7 +1,8 @@
 
 $(document).ready(function() {
 
-  console.log("hire me! im fun to work with and I love beautiful things! :)");
+  console.log("Contact me for a chat! im fun to work with, I love beautiful things and I am always up for an interesting collaboration! :)");
+  console.log("noga.inbar@gmail.com");
 
   $(window).scroll(function() {
 
