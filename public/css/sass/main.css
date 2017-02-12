@@ -97,6 +97,26 @@ p {
   color: #BFBFBA;
   padding-top: 6%; }
 
+.h-prj {
+  font-family: "Work Sans", sans-serif;
+  color: #130074;
+  font-size: 40px;
+  font-weight: 300;
+  margin-bottom: 20px; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .h-prj {
+      font-size: 40px; } }
+  @media screen and (min-width: 60em) {
+    .h-prj {
+      font-size: 60px; } }
+
+.prj-txt {
+  font-family: "Work Sans", sans-serif;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 300;
+  text-align: left; }
+
 .centered {
   margin: auto;
   padding: 0 50px;
@@ -161,11 +181,17 @@ p {
   padding-top: 0; }
 
 .project-img {
-  height: 100vh;
-  margin-top: 100px;
+  margin-top: 0;
   margin-bottom: 40px;
-  max-width: 100%;
-  width: 100%; }
+  max-width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .project-img {
+      height: 80vh;
+      margin-top: 80px; } }
+  @media screen and (min-width: 60em) {
+    .project-img {
+      height: 100vh;
+      margin-top: 100px; } }
 
 #neinghbours-one {
   margin-top: 50px; }
@@ -176,6 +202,48 @@ p {
   max-width: 550px; }
   .description p {
     color: #999999; }
+
+.white-bg {
+  background-color: white; }
+
+.prj-content {
+  padding: 40px; }
+  .prj-content img {
+    width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 40em) {
+    .prj-content {
+      padding: 50px; } }
+  @media screen and (min-width: 40em) {
+    .prj-content {
+      padding: 75px; } }
+
+#txt-neighbours-logo {
+  padding-top: 10%;
+  padding-bottom: 10%;
+  max-width: 400px; }
+  @media screen and (min-width: 30em) and (max-width: 40em) {
+    #txt-neighbours-logo {
+      padding-top: 20%; } }
+  @media screen and (min-width: 40em) {
+    #txt-neighbours-logo {
+      padding-top: 35%; } }
+
+#building-colours {
+  z-index: -99;
+  width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 40em) {
+    #building-colours {
+      width: 60%; } }
+  @media screen and (min-width: 40em) {
+    #building-colours {
+      width: 70%; } }
+
+.neighbours-colours {
+  position: relative; }
+
+.colours-txt {
+  position: absolute;
+  top: 80px; }
 
 #form_section {
   display: block;
