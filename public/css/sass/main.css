@@ -181,17 +181,15 @@ p {
   padding-top: 0; }
 
 .project-img {
-  margin-top: 0;
+  margin-top: 20px;
   margin-bottom: 40px;
   max-width: 100%; }
   @media screen and (min-width: 30em) and (max-width: 60em) {
     .project-img {
-      height: 80vh;
-      margin-top: 80px; } }
+      height: 80vh; } }
   @media screen and (min-width: 60em) {
     .project-img {
-      height: 100vh;
-      margin-top: 100px; } }
+      height: 100vh; } }
 
 #neinghbours-one {
   margin-top: 50px; }
@@ -217,6 +215,21 @@ p {
     .prj-content {
       padding: 75px; } }
 
+.prj-content-icons {
+  padding: 40px; }
+  .prj-content-icons img {
+    width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 40em) {
+    .prj-content-icons {
+      padding: 50px; }
+      .prj-content-icons img {
+        width: 80%; } }
+  @media screen and (min-width: 40em) {
+    .prj-content-icons {
+      padding: 75px; }
+      .prj-content-icons img {
+        width: 70%; } }
+
 #txt-neighbours-logo {
   padding-top: 10%;
   padding-bottom: 10%;
@@ -238,12 +251,39 @@ p {
     #building-colours {
       width: 70%; } }
 
-.neighbours-colours {
-  position: relative; }
+#illustrations-first {
+  z-index: -99;
+  width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 40em) {
+    #illustrations-first {
+      width: 50%; } }
+  @media screen and (min-width: 40em) {
+    #illustrations-first {
+      width: 60%; } }
 
-.colours-txt {
-  position: absolute;
-  top: 80px; }
+.icons {
+  z-index: -99;
+  width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 40em) {
+    .icons {
+      width: 80%; } }
+  @media screen and (min-width: 40em) {
+    .icons {
+      width: 70%; } }
+
+.project-header-icons {
+  font-size: 30px;
+  text-align: center;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 200;
+  color: #BFBFBA;
+  padding-bottom: 10px; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .project-header-icons {
+      font-size: 40px; } }
+  @media screen and (min-width: 60em) {
+    .project-header-icons {
+      font-size: 50px; } }
 
 #form_section {
   display: block;
