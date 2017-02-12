@@ -56,6 +56,31 @@ p {
   padding-top: 6%;
 }
 
+.h-prj {
+  font-family: $work-sans;
+  color: #130074;
+  // default
+  font-size: 40px;
+  font-weight: 300;
+  margin-bottom: 20px;
+    // medium
+    @media screen and (min-width: 30em) and (max-width: 60em) {
+      font-size: 40px;
+    }
+    // large
+    @media screen and (min-width: 60em) {
+      font-size: 60px;
+    }
+}
+
+.prj-txt {
+  font-family: $work-sans;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 300;
+  text-align: left;
+}
+
 .centered {
   margin: auto;
   padding: 0 50px;

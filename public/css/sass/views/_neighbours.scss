@@ -15,11 +15,19 @@
 
 
 .project-img {
-  height: 100vh;
-  margin-top: 100px;
+  margin-top: 0;
   margin-bottom: 40px;
   max-width: 100%;
-  width: 100%;
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    height: 80vh;
+    margin-top: 80px;
+  }
+  // large
+  @media screen and (min-width: 60em) {
+    height: 100vh;
+    margin-top: 100px;
+  }
 }
 
 #neinghbours-one {
@@ -33,4 +41,59 @@
    p {
      color: #999999;
    }
+}
+
+.white-bg {
+  background-color: white;
+}
+
+.prj-content {
+  padding: 40px;
+    img {
+      width: 100%;
+    }
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 40em) {
+    padding: 50px;
+  }
+  // large
+  @media screen and (min-width: 40em) {
+    padding: 75px;
+  }
+}
+
+#txt-neighbours-logo {
+  padding-top: 10%;
+  padding-bottom: 10%;
+  max-width: 400px;
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 40em) {
+    padding-top: 20%;
+  }
+  // large
+  @media screen and (min-width: 40em) {
+    padding-top: 35%;
+  }
+}
+
+#building-colours {
+  z-index: -99;
+  width: 100%;
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 40em) {
+    width: 60%;
+  }
+  // large
+  @media screen and (min-width: 40em) {
+    width: 70%;
+  }
+}
+
+.neighbours-colours {
+  position: relative;
+}
+
+.colours-txt {
+  position: absolute;
+  top: 80px;
 }
