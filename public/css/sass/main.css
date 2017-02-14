@@ -126,10 +126,16 @@ p {
 
 .description {
   margin: auto;
-  padding: 0 50px;
+  padding: 0 10px 50px 10px;
   max-width: 550px; }
   .description p {
     color: #999999; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .description {
+      padding: 0 50px 50px 50px; } }
+  @media screen and (min-width: 60em) {
+    .description {
+      padding: 0 50px 50px 50px; } }
 
 .white-bg {
   background-color: white; }
@@ -298,7 +304,68 @@ p {
   left: 0;
   right: 0;
   bottom: 0;
-  width: 40%; }
+  width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    #bwm-splash {
+      width: 70%; } }
+  @media screen and (min-width: 60em) {
+    #bwm-splash {
+      width: 40%; } }
+
+#afc-hack {
+  width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    #afc-hack {
+      width: 70%; } }
+  @media screen and (min-width: 60em) {
+    #afc-hack {
+      width: 60%; } }
+
+#team-pic {
+  height: 50vh; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    #team-pic {
+      height: 80vh; } }
+  @media screen and (min-width: 60em) {
+    #team-pic {
+      height: 100vh; } }
+
+.description-bwm {
+  margin: auto;
+  padding: 50px 10px 50px 10px;
+  text-align: left;
+  background-color: white; }
+  .description-bwm p {
+    color: #999999; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .description-bwm {
+      padding: 50 50px 50px 50px; } }
+  @media screen and (min-width: 60em) {
+    .description-bwm {
+      padding: 50 50px 50px 50px; } }
+
+#solution-txt {
+  text-align: left;
+  padding: 10px;
+  background-color: white; }
+  #solution-txt p {
+    color: #999999; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    #solution-txt {
+      padding: 15px; } }
+  @media screen and (min-width: 60em) {
+    #solution-txt {
+      padding: 45px; } }
+
+#bwm-solution-grafics {
+  padding: 20px;
+  width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    #bwm-solution-grafics {
+      width: 80%; } }
+  @media screen and (min-width: 60em) {
+    #bwm-solution-grafics {
+      width: 67%; } }
 
 #form_section {
   display: block;

@@ -30,10 +30,18 @@
 
 .description {
   margin: auto;
-  padding: 0 50px;
+  padding: 0 10px 50px 10px;
   max-width: 550px;
    p {
      color: #999999;
+   }
+   // medium
+   @media screen and (min-width: 30em) and (max-width: 60em) {
+     padding: 0 50px 50px 50px;
+    }
+   // large
+   @media screen and (min-width: 60em) {
+     padding: 0 50px 50px 50px;
    }
 }
 

@@ -5,5 +5,88 @@
     left: 0;
     right: 0;
     bottom: 0;
+  width: 100%;
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    width: 70%;
+   }
+  // large
+  @media screen and (min-width: 60em) {
   width: 40%;
+  }
+}
+
+#afc-hack {
+  width: 100%;
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    width: 70%;
+   }
+  // large
+  @media screen and (min-width: 60em) {
+  width: 60%;
+  }
+}
+
+#team-pic {
+  height: 50vh;
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    height: 80vh;
+  }
+  // large
+  @media screen and (min-width: 60em) {
+    height: 100vh;
+  }
+}
+
+
+.description-bwm {
+  margin: auto;
+  padding: 50px 10px 50px 10px;
+  text-align: left;
+  background-color: white;
+   p {
+     color: #999999;
+   }
+   // medium
+   @media screen and (min-width: 30em) and (max-width: 60em) {
+     padding: 50 50px 50px 50px;
+    }
+   // large
+   @media screen and (min-width: 60em) {
+     padding: 50 50px 50px 50px;
+   }
+}
+
+#solution-txt {
+  text-align: left;
+  padding: 10px;
+  background-color: white;
+  p {
+    color: #999999;
+  }
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    padding: 15px;
+   }
+  // large
+  @media screen and (min-width: 60em) {
+    padding: 45px;
+  }
+}
+
+#bwm-solution-grafics {
+  padding: 20px;
+  width: 100%;
+
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    width: 80%;
+   }
+  // large
+  @media screen and (min-width: 60em) {
+  width: 67%;
+  }
+
 }
