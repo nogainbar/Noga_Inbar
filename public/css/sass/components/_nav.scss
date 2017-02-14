@@ -1,30 +1,29 @@
 // js
 .wrapperNav {
   height: 200px;
+  max-width: 1410px;
 }
 
-// js
 .landingNav {
   font-family: $work-sans;
   z-index: 1000;
   transition: background-color 0.3s linear;
   position: fixed;
 }
-// js
+
 .solid-nav {
     background-color: $offwhite;
     transition: background-color 0.3s
 }
 
-// js
 .landing_nav_items {
   a {
     color: $offwhite;
     outline: 0;
   }
+
 }
 
-// js
 .items_colour_change {
   a {
     color: $blue;
@@ -46,6 +45,8 @@
   }
 }
 
+
+// logo
 .logo {
   width: 100%;
   display: block;
@@ -59,47 +60,55 @@
   }
   // large
   @media screen and (min-width: 60em) {
-    width: 30%;
+    width: 26%;
     display: table-cell;
   }
 }
 
-.portfolio {
-  padding-right: 80px;
+
+// nav items
+.nav-items {
+  display: block;
+  vertical-align: middle;
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    display: block;;
+  }
+  // large
+  @media screen and (min-width: 60em) {
+    display: table-cell;
+    width: 75%;
+    text-align: right;
+  }
 }
 
-.contact {
- margin-right: 0;
+.portfolio {
+  padding-right: 20px;
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    padding-right: 80px; }
+  // large
+  @media screen and (min-width: 60em) {
+    padding-right: 80px;
+  }
 }
 
 .about {
-  padding-right: 60px;
-}
+  padding-right: 20px;
 
-.portfolio_landing {
-  padding-right: 80px;
-}
-
-.contact_landing {
- margin-right: 0;
- padding-right: 1.3%;
-}
-
-.about_landing {
-  padding-right: 60px;
-}
-
-.mr4-l {
-  margin-left: -1rem;
-}
-
-#noga-logo {
   // medium
-  // @media screen and (min-width: 30em) and (max-width: 60em) {
-  //   width: 80vh;
-  // }
-  // small
-  @media screen and (max-width: 60em) {
-    width: 100%;
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    padding-right: 80px; }
+  // large
+  @media screen and (min-width: 60em) {
+    padding-right: 80px;
   }
+}
+
+.link:focus {
+    transition: color .15s ease-in;
+    outline: 0;
 }
