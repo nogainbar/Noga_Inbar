@@ -295,36 +295,42 @@ p {
   display: block;
   padding-top: 11%; }
 
-.centered form {
+form {
   display: table;
   margin: 33px auto; }
-  .centered form label {
+  form label {
     position: relative;
     display: block; }
-    .centered form label input, .centered form label textarea {
+    form label input, form label textarea {
       font: 18px "Work Sans", sans-serif;
       box-sizing: border-box;
       display: block;
       border: none;
       padding: 20px;
-      width: 500px;
+      width: 300px;
       margin-bottom: 20px;
       font-size: 18px;
       outline: none;
       transition: all 0.2s ease-in-out; }
-      .centered form label input::placeholder, .centered form label textarea::placeholder {
+      form label input::placeholder, form label textarea::placeholder {
         transition: all 0.2s ease-in-out;
         color: #999;
         font: 18px "Work Sans", sans-serif; }
-      .centered form label input:focus, .centered form label input.populated, .centered form label textarea:focus, .centered form label textarea.populated {
+      form label input:focus, form label input.populated, form label textarea:focus, form label textarea.populated {
         padding-top: 28px;
         padding-bottom: 12px; }
-        .centered form label input:focus::placeholder, .centered form label input.populated::placeholder, .centered form label textarea:focus::placeholder, .centered form label textarea.populated::placeholder {
+        form label input:focus::placeholder, form label input.populated::placeholder, form label textarea:focus::placeholder, form label textarea.populated::placeholder {
           color: transparent; }
-        .centered form label input:focus + span, .centered form label input.populated + span, .centered form label textarea:focus + span, .centered form label textarea.populated + span {
+        form label input:focus + span, form label input.populated + span, form label textarea:focus + span, form label textarea.populated + span {
           opacity: 1;
           top: 10px; }
-    .centered form label span {
+      @media screen and (min-width: 30em) and (max-width: 60em) {
+        form label input, form label textarea {
+          width: 400px; } }
+      @media screen and (min-width: 60em) {
+        form label input, form label textarea {
+          width: 500px; } }
+    form label span {
       color: #130074;
       font: 13px "Work Sans", sans-serif;
       position: absolute;
@@ -332,14 +338,14 @@ p {
       left: 20px;
       opacity: 0;
       transition: all 0.2s ease-in-out; }
-  .centered form input[type="submit"] {
+  form input[type="submit"] {
     transition: all 0.2s ease-in-out;
     font: 18px "Work Sans", sans-serif;
     border: none;
     background: #130074;
     color: #fff;
     padding: 16px 40px; }
-    .centered form input[type="submit"]:hover {
+    form input[type="submit"]:hover {
       cursor: pointer;
       background: #fff;
       border: 1px solid #130074;
@@ -354,10 +360,7 @@ section {
   padding: 0 50px;
   max-width: 700px; }
 
-#noga {
-  height: 100vh;
-  max-width: 700px;
-  width: 100%;
+.noga {
   margin-top: 70px; }
 
 .wrapperNav {
