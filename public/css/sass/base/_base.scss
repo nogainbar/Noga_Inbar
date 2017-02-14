@@ -83,6 +83,15 @@ p {
 
 .centered {
   margin: auto;
-  padding: 0 50px;
+  padding: 0 10px;
   max-width: 1410px;
+
+  // medium
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    padding: 0 50px;
+  }
+  // large
+  @media screen and (min-width: 60em) {
+    padding: 0 50px;
+  }
 }

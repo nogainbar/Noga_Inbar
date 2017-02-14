@@ -119,8 +119,14 @@ p {
 
 .centered {
   margin: auto;
-  padding: 0 50px;
+  padding: 0 10px;
   max-width: 1410px; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .centered {
+      padding: 0 50px; } }
+  @media screen and (min-width: 60em) {
+    .centered {
+      padding: 0 50px; } }
 
 .landing_img {
   height: 149vh; }
@@ -289,60 +295,55 @@ p {
   display: block;
   padding-top: 11%; }
 
-.centered {
-  padding-top: 15%;
-  margin: auto;
-  padding: 0 50px;
-  max-width: 1410px; }
-  .centered form {
-    display: table;
-    margin: 33px auto; }
-    .centered form label {
-      position: relative;
-      display: block; }
-      .centered form label input, .centered form label textarea {
-        font: 18px "Work Sans", sans-serif;
-        box-sizing: border-box;
-        display: block;
-        border: none;
-        padding: 20px;
-        width: 500px;
-        margin-bottom: 20px;
-        font-size: 18px;
-        outline: none;
-        transition: all 0.2s ease-in-out; }
-        .centered form label input::placeholder, .centered form label textarea::placeholder {
-          transition: all 0.2s ease-in-out;
-          color: #999;
-          font: 18px "Work Sans", sans-serif; }
-        .centered form label input:focus, .centered form label input.populated, .centered form label textarea:focus, .centered form label textarea.populated {
-          padding-top: 28px;
-          padding-bottom: 12px; }
-          .centered form label input:focus::placeholder, .centered form label input.populated::placeholder, .centered form label textarea:focus::placeholder, .centered form label textarea.populated::placeholder {
-            color: transparent; }
-          .centered form label input:focus + span, .centered form label input.populated + span, .centered form label textarea:focus + span, .centered form label textarea.populated + span {
-            opacity: 1;
-            top: 10px; }
-      .centered form label span {
-        color: #130074;
-        font: 13px "Work Sans", sans-serif;
-        position: absolute;
-        top: 0px;
-        left: 20px;
-        opacity: 0;
-        transition: all 0.2s ease-in-out; }
-    .centered form input[type="submit"] {
-      transition: all 0.2s ease-in-out;
+.centered form {
+  display: table;
+  margin: 33px auto; }
+  .centered form label {
+    position: relative;
+    display: block; }
+    .centered form label input, .centered form label textarea {
       font: 18px "Work Sans", sans-serif;
+      box-sizing: border-box;
+      display: block;
       border: none;
-      background: #130074;
-      color: #fff;
-      padding: 16px 40px; }
-      .centered form input[type="submit"]:hover {
-        cursor: pointer;
-        background: #fff;
-        border: 1px solid #130074;
-        color: #130074; }
+      padding: 20px;
+      width: 500px;
+      margin-bottom: 20px;
+      font-size: 18px;
+      outline: none;
+      transition: all 0.2s ease-in-out; }
+      .centered form label input::placeholder, .centered form label textarea::placeholder {
+        transition: all 0.2s ease-in-out;
+        color: #999;
+        font: 18px "Work Sans", sans-serif; }
+      .centered form label input:focus, .centered form label input.populated, .centered form label textarea:focus, .centered form label textarea.populated {
+        padding-top: 28px;
+        padding-bottom: 12px; }
+        .centered form label input:focus::placeholder, .centered form label input.populated::placeholder, .centered form label textarea:focus::placeholder, .centered form label textarea.populated::placeholder {
+          color: transparent; }
+        .centered form label input:focus + span, .centered form label input.populated + span, .centered form label textarea:focus + span, .centered form label textarea.populated + span {
+          opacity: 1;
+          top: 10px; }
+    .centered form label span {
+      color: #130074;
+      font: 13px "Work Sans", sans-serif;
+      position: absolute;
+      top: 0px;
+      left: 20px;
+      opacity: 0;
+      transition: all 0.2s ease-in-out; }
+  .centered form input[type="submit"] {
+    transition: all 0.2s ease-in-out;
+    font: 18px "Work Sans", sans-serif;
+    border: none;
+    background: #130074;
+    color: #fff;
+    padding: 16px 40px; }
+    .centered form input[type="submit"]:hover {
+      cursor: pointer;
+      background: #fff;
+      border: 1px solid #130074;
+      color: #130074; }
 
 section {
   padding-top: 9%;
@@ -360,7 +361,8 @@ section {
   margin-top: 70px; }
 
 .wrapperNav {
-  height: 200px; }
+  height: 200px;
+  max-width: 1410px; }
 
 .landingNav {
   font-family: "Work Sans", sans-serif;
@@ -402,33 +404,44 @@ section {
       display: table-cell; } }
   @media screen and (min-width: 60em) {
     .logo {
-      width: 30%;
+      width: 26%;
       display: table-cell; } }
 
-.portfolio {
-  padding-right: 80px; }
+.nav-items {
+  display: block;
+  vertical-align: middle;
+  width: 100%;
+  text-align: center;
+  margin-top: 20px; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .nav-items {
+      display: block; } }
+  @media screen and (min-width: 60em) {
+    .nav-items {
+      display: table-cell;
+      width: 75%;
+      text-align: right; } }
 
-.contact {
-  margin-right: 0; }
+.portfolio {
+  padding-right: 20px; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .portfolio {
+      padding-right: 80px; } }
+  @media screen and (min-width: 60em) {
+    .portfolio {
+      padding-right: 80px; } }
 
 .about {
-  padding-right: 60px; }
+  padding-right: 20px; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .about {
+      padding-right: 80px; } }
+  @media screen and (min-width: 60em) {
+    .about {
+      padding-right: 80px; } }
 
-.portfolio_landing {
-  padding-right: 80px; }
-
-.contact_landing {
-  margin-right: 0;
-  padding-right: 1.3%; }
-
-.about_landing {
-  padding-right: 60px; }
-
-.mr4-l {
-  margin-left: -1rem; }
-
-@media screen and (max-width: 60em) {
-  #noga-logo {
-    width: 100%; } }
+.link:focus {
+  transition: color .15s ease-in;
+  outline: 0; }
 
 /*# sourceMappingURL=main.css.map */
