@@ -89,6 +89,68 @@ p {
   font-weight: 300;
   line-height: 24px; }
 
+.centered {
+  margin: auto;
+  padding: 0 10px;
+  max-width: 1410px; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .centered {
+      padding: 0 50px; } }
+  @media screen and (min-width: 60em) {
+    .centered {
+      padding: 0 50px; } }
+
+.portfolio-container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  padding-bottom: 0;
+  padding-top: 0; }
+
+.project-container {
+  margin-left: 1%;
+  margin-right: 1%;
+  width: 98%;
+  padding-top: 0; }
+
+.project-img {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  max-width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .project-img {
+      height: 80vh; } }
+  @media screen and (min-width: 60em) {
+    .project-img {
+      height: 100vh; } }
+
+.description {
+  margin: auto;
+  padding: 0 10px 50px 10px;
+  max-width: 550px; }
+  .description p {
+    color: #999999; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .description {
+      padding: 0 50px 50px 50px; } }
+  @media screen and (min-width: 60em) {
+    .description {
+      padding: 0 50px 50px 50px; } }
+
+.white-bg {
+  background-color: white; }
+
+.prj-content {
+  padding: 40px; }
+  .prj-content img {
+    width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 40em) {
+    .prj-content {
+      padding: 50px; } }
+  @media screen and (min-width: 40em) {
+    .prj-content {
+      padding: 75px; } }
+
 .project-header {
   font-size: 50px;
   text-align: center;
@@ -116,17 +178,6 @@ p {
   line-height: 27px;
   font-weight: 300;
   text-align: left; }
-
-.centered {
-  margin: auto;
-  padding: 0 10px;
-  max-width: 1410px; }
-  @media screen and (min-width: 30em) and (max-width: 60em) {
-    .centered {
-      padding: 0 50px; } }
-  @media screen and (min-width: 60em) {
-    .centered {
-      padding: 0 50px; } }
 
 .landing_img {
   height: 149vh; }
@@ -173,53 +224,8 @@ p {
 .aspect-ratio--4x6 {
   padding-bottom: 151% !important; }
 
-.portfolio-container {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
-  padding-bottom: 0;
-  padding-top: 0; }
-
-.project-container {
-  margin-left: 1%;
-  margin-right: 1%;
-  width: 98%;
-  padding-top: 0; }
-
-.project-img {
-  margin-top: 20px;
-  margin-bottom: 40px;
-  max-width: 100%; }
-  @media screen and (min-width: 30em) and (max-width: 60em) {
-    .project-img {
-      height: 80vh; } }
-  @media screen and (min-width: 60em) {
-    .project-img {
-      height: 100vh; } }
-
 #neinghbours-one {
   margin-top: 50px; }
-
-.description {
-  margin: auto;
-  padding: 0 50px;
-  max-width: 550px; }
-  .description p {
-    color: #999999; }
-
-.white-bg {
-  background-color: white; }
-
-.prj-content {
-  padding: 40px; }
-  .prj-content img {
-    width: 100%; }
-  @media screen and (min-width: 30em) and (max-width: 40em) {
-    .prj-content {
-      padding: 50px; } }
-  @media screen and (min-width: 40em) {
-    .prj-content {
-      padding: 75px; } }
 
 .prj-content-icons {
   padding: 40px; }
@@ -290,6 +296,76 @@ p {
   @media screen and (min-width: 60em) {
     .project-header-icons {
       font-size: 50px; } }
+
+#bwm-splash {
+  position: relative;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    #bwm-splash {
+      width: 70%; } }
+  @media screen and (min-width: 60em) {
+    #bwm-splash {
+      width: 40%; } }
+
+#afc-hack {
+  width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    #afc-hack {
+      width: 70%; } }
+  @media screen and (min-width: 60em) {
+    #afc-hack {
+      width: 60%; } }
+
+#team-pic {
+  height: 50vh; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    #team-pic {
+      height: 80vh; } }
+  @media screen and (min-width: 60em) {
+    #team-pic {
+      height: 100vh; } }
+
+.description-bwm {
+  margin: auto;
+  padding: 50px 10px 50px 10px;
+  text-align: left;
+  background-color: white; }
+  .description-bwm p {
+    color: #999999; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .description-bwm {
+      padding: 50 50px 50px 50px; } }
+  @media screen and (min-width: 60em) {
+    .description-bwm {
+      padding: 50 50px 50px 50px; } }
+
+#solution-txt {
+  text-align: left;
+  padding: 10px;
+  background-color: white; }
+  #solution-txt p {
+    color: #999999; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    #solution-txt {
+      padding: 15px; } }
+  @media screen and (min-width: 60em) {
+    #solution-txt {
+      padding: 45px; } }
+
+#bwm-solution-grafics {
+  padding: 20px;
+  width: 100%; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    #bwm-solution-grafics {
+      width: 80%; } }
+  @media screen and (min-width: 60em) {
+    #bwm-solution-grafics {
+      width: 67%; } }
 
 #form_section {
   display: block;
