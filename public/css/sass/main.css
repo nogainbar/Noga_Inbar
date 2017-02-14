@@ -291,6 +291,15 @@ p {
     .project-header-icons {
       font-size: 50px; } }
 
+#bwm-splash {
+  position: relative;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 40%; }
+
 #form_section {
   display: block;
   padding-top: 11%; }
