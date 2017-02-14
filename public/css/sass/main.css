@@ -362,13 +362,6 @@ section {
 .wrapperNav {
   height: 200px; }
 
-.nav {
-  font-family: "Work Sans", sans-serif;
-  z-index: 1000;
-  transition: background-color 0.3s linear; }
-  .nav a {
-    outline: 0; }
-
 .landingNav {
   font-family: "Work Sans", sans-serif;
   z-index: 1000;
@@ -379,6 +372,39 @@ section {
   background-color: #f5f5f5;
   transition: background-color 0.3s; }
 
+.landing_nav_items a {
+  color: #f5f5f5;
+  outline: 0; }
+
+.items_colour_change a {
+  color: #130074;
+  outline: 0; }
+
+.nav {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 1rem;
+  font-family: "Work Sans", sans-serif;
+  z-index: 1000;
+  transition: background-color 0.3s linear; }
+  .nav a {
+    outline: 0; }
+
+.logo {
+  width: 100%;
+  display: block;
+  vertical-align: middle;
+  text-align: center; }
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+    .logo {
+      width: 60%;
+      display: table-cell; } }
+  @media screen and (min-width: 60em) {
+    .logo {
+      width: 30%;
+      display: table-cell; } }
+
 .portfolio {
   padding-right: 80px; }
 
@@ -387,14 +413,6 @@ section {
 
 .about {
   padding-right: 60px; }
-
-.landing_nav_items a {
-  color: #f5f5f5;
-  outline: 0; }
-
-.items_colour_change a {
-  color: #130074;
-  outline: 0; }
 
 .portfolio_landing {
   padding-right: 80px; }
@@ -408,5 +426,9 @@ section {
 
 .mr4-l {
   margin-left: -1rem; }
+
+@media screen and (max-width: 60em) {
+  #noga-logo {
+    width: 100%; } }
 
 /*# sourceMappingURL=main.css.map */
