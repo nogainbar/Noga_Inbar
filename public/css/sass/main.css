@@ -358,14 +358,10 @@ p {
       padding: 45px; } }
 
 #bwm-solution-grafics {
-  padding: 20px;
   width: 100%; }
-  @media screen and (min-width: 30em) and (max-width: 60em) {
-    #bwm-solution-grafics {
-      width: 80%; } }
   @media screen and (min-width: 60em) {
     #bwm-solution-grafics {
-      width: 67%; } }
+      width: 70%; } }
 
 #form_section {
   display: block;

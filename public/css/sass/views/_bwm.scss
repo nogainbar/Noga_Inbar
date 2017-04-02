@@ -77,16 +77,10 @@
 }
 
 #bwm-solution-grafics {
-  padding: 20px;
   width: 100%;
 
-  // medium
-  @media screen and (min-width: 30em) and (max-width: 60em) {
-    width: 80%;
-   }
   // large
   @media screen and (min-width: 60em) {
-  width: 67%;
+  width: 70%;
   }
-
 }
