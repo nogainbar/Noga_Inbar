@@ -2,4 +2,9 @@
 node_modules
 
 .sass-cache
+
 public/css/sass/main.css.map
+public/css/sass/base
+public/css/sass/components
+public/css/sass/views
+public/css/sass/main.scss
