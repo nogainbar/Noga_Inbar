@@ -3,7 +3,7 @@ node_modules
 
 .sass-cache
 
-public/css
+public/css/sass
 public/csspublic/main.css.map
 
 DS_Store
