@@ -22,7 +22,7 @@ Go to local:8000
 To run the css(scss) file, you need to:
 
 1. ``` cd public/css ```
-2. ``` sass --watch stylesheet.scss:stylesheet.css ```
+2. ``` sass --watch main.scss:main.css ```
 
 
 :)
