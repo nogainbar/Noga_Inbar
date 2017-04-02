@@ -2,7 +2,7 @@
 This is Noga Inbar's portfolio website
 
 ## What?
-This is my portfolio website, exploring different project I have been working on. You can alsways find the most recent (and best) six projects I have done and you can also contact me!
+This is my portfolio website, exploring different project I have been working on. You can alsways find the most recent (and best) six projects I have done and/or you can contact me for more!
 
 ## The Stack
 The site is built in Node.js using Hapi.js and Handlebars. SASS, TACHYONS and jQuery on the frontend. 
