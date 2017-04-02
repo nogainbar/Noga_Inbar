@@ -17,6 +17,8 @@ Because I enjoy doing it and I can show the world what I am up to!
 3. ``` npm install ```
 4. ``` npm start ```
 
+Go to local:8000  
+
 To run the css(scss) file, you need to:
 
 1. ``` cd public/css ```
