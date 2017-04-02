@@ -59,7 +59,7 @@
 }
 
 .arrow_wrapper {
-  margin-top: 55vh;
+  margin-top: 39vh;
   // medium
   @media screen and (min-width: 30em) and (max-width: 40em) {
     margin-top: 59vh;
@@ -147,4 +147,8 @@
     opacity: 1;
     transform: translate(0, 0);
   }
+}
+
+.dte-bg {
+  background-color: #FEFCFE;
 }

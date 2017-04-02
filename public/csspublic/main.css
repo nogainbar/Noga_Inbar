@@ -225,7 +225,7 @@ p {
   padding-bottom: 151% !important; }
 
 .arrow_wrapper {
-  margin-top: 55vh; }
+  margin-top: 39vh; }
   @media screen and (min-width: 30em) and (max-width: 40em) {
     .arrow_wrapper {
       margin-top: 59vh; } }
@@ -295,6 +295,9 @@ p {
   100% {
     opacity: 1;
     transform: translate(0, 0); } }
+.dte-bg {
+  background-color: #FEFCFE; }
+
 #neinghbours-one {
   margin-top: 50px; }
 
