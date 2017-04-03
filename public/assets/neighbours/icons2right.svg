@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="638px" height="695px" viewBox="0 0 638 695" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <rect id="path-17" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <rect id="path-19" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <rect id="path-21" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-21"></use>
+        </mask>
+        <rect id="path-23" x="0" y="0" width="47.7690355" height="64.748538"></rect>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.7690355" height="64.748538" fill="white">
+            <use xlink:href="#path-23"></use>
+        </mask>
+    </defs>
+    <g id="Neighbours" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" fill="#FFFFFF" x="-709" y="-48" width="1411" height="856"></rect>
+        <g id="Group" transform="translate(0.000000, 3.000000)">
+            <polygon id="Triangle-3" fill="#FFC900" opacity="0.21" points="284.185279 103.597661 637.492534 692 -1.13686838e-13 692"></polygon>
+            <g id="building" transform="translate(187.027919, 397.394152)">
+                <g id="neighbours__whole">
+                    <g id="neighbour__1__fullbody">
+                        <g id="head" stroke="#120079" stroke-width="2">
+                            <path d="M39.6908718,85.4704859 C39.6908718,85.4704859 45.0763471,105.174421 59.319265,97.4284315" id="mouth"></path>
+                            <g id="hair">
+                                <path d="M19.8303225,4.45706284 L32.604543,34.1844573" id="Path-3"></path>
+                                <path d="M52.5945405,0 L52.4544014,34.3359185" id="Path-4"></path>
+                                <path d="M86.3164462,4.45706284 L71.0053482,34.4938382" id="Path-5"></path>
+                                <path d="M0.597186152,33.4858409 L104.3217,49.3340133" id="Path-2"></path>
+                            </g>
+                            <g id="eyes" transform="translate(37.741581, 51.574584)">
+                                <ellipse id="Oval" cx="3.83812693" cy="4.13870121" rx="3.83812693" ry="4.13870121"></ellipse>
+                                <ellipse id="Oval" cx="24.3081372" cy="4.13870121" rx="3.83812693" ry="4.13870121"></ellipse>
+                            </g>
+                        </g>
+                        <polygon id="shirt" fill="#120079" opacity="0.35" points="27.330778 89.9730538 14.6598639 195.448894 90.1776793 195.348384 84.1689243 88.9791275 58.0055365 134.988502"></polygon>
+                        <polyline id="body" stroke="#120079" stroke-width="2" points="25.7456379 47.9423393 6.90730126 203.757822 100.261269 203.757822 88.0353511 53.71756"></polyline>
+                        <g id="legs" transform="translate(35.866257, 206.339564)" stroke="#120079" stroke-width="2">
+                            <path d="M0.896656434,0.893244865 L0.896656434,51.7290296" id="Path-20"></path>
+                            <path d="M33.1762881,0 L33.1762881,50.8357847" id="Path-20"></path>
+                        </g>
+                    </g>
+                    <g id="neighbour__2__fullbody" transform="translate(137.188434, 0.000000)">
+                        <g id="head" stroke="#120079" stroke-width="2">
+                            <g id="eyes" transform="translate(37.268848, 61.459713)">
+                                <ellipse id="Oval" cx="3.72688484" cy="4.03523368" rx="3.72688484" ry="4.03523368"></ellipse>
+                                <ellipse id="Oval" cx="23.603604" cy="4.03523368" rx="3.72688484" ry="4.03523368"></ellipse>
+                            </g>
+                            <path d="M51.9423241,95.8425654 C51.9423241,95.8425654 68.1476187,99.8398885 71.4095621,87.0825803" id="mouth"></path>
+                            <g id="hair">
+                                <path d="M16.2961098,68.6173294 L9.00663837,104.605673" id="Path-9"></path>
+                                <path d="M14.0186362,48.4110417 L0.180175951,76.5524517" id="Path-10"></path>
+                                <path d="M91.7101013,52.9716446 L97.7602149,87.666114" id="Path-11"></path>
+                                <path d="M88.7544922,36.6788196 L110.887858,59.8350047" id="Path-12"></path>
+                                <path d="M10.1275267,15.7376093 L26.0494158,39.1101884" id="Path-13"></path>
+                                <path d="M43.8504758,0.532878033 L51.9778903,32.5979579" id="Path-14"></path>
+                                <path d="M100.162286,15.9478789 L74.2419814,33.8126216" id="Path-15"></path>
+                            </g>
+                        </g>
+                        <g id="body" transform="translate(13.449847, 56.154079)">
+                            <polygon id="shirt" fill="#120079" opacity="0.35" points="25.5164832 50.2211514 7.169922 137.153805 52.1459018 138.168471 56.7933983 114.960372 72.3277597 137.059677 108.642933 137.399494 72.1628072 34.1875091 48.7267408 80.0309629"></polygon>
+                            <polyline id="Path-19" stroke="#120079" stroke-width="2" points="15.6550044 21.5438927 0.0466327352 146.181242 117.188696 146.181242 66.9848483 0.0925683595"></polyline>
+                        </g>
+                        <g id="legs" transform="translate(54.696042, 206.339564)" stroke="#120079" stroke-width="2">
+                            <path d="M0.896656434,0.893244865 L0.896656434,51.7290296" id="Path-20"></path>
+                            <path d="M33.1762881,0 L33.1762881,50.8357847" id="Path-20"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="bulding__all" transform="translate(51.007614, 0.000000)" stroke="#120079">
+                <g id="briks" transform="translate(68.819797, 167.536842)" stroke-width="6">
+                    <path d="M1.02782776,0.294159638 L1.02782776,30.5484355" id="Path-22"></path>
+                    <path d="M32.3857868,1.61648472e-13 L32.3857868,30.2542759" id="Path-22"></path>
+                    <path d="M77.7258883,1.61648472e-13 L77.7258883,30.2542759" id="Path-22"></path>
+                    <path d="M109.083847,1.61648472e-13 L109.083847,30.2542759" id="Path-22"></path>
+                    <path d="M154.423949,1.61648472e-13 L154.423949,30.2542759" id="Path-22"></path>
+                    <path d="M210.231358,31.5649123 L423.373047,31.5649123" id="Path-21"></path>
+                </g>
+                <g id="briks" transform="translate(46.149746, 167.536842)" stroke-width="6">
+                    <path d="M269.020214,0.294159638 L269.020214,30.5484355" id="Path-22"></path>
+                    <path d="M300.378173,1.61648472e-13 L300.378173,30.2542759" id="Path-22"></path>
+                    <path d="M345.718274,1.61648472e-13 L345.718274,30.2542759" id="Path-22"></path>
+                    <path d="M377.076233,1.61648472e-13 L377.076233,30.2542759" id="Path-22"></path>
+                    <path d="M422.416335,1.61648472e-13 L422.416335,30.2542759" id="Path-22"></path>
+                    <path d="M0.167022263,31.5649123 L213.746193,31.5649123" id="Path-21"></path>
+                </g>
+                <g id="windows__left" transform="translate(65.581218, 324.552047)">
+                    <g id="window">
+                        <use id="Rectangle" mask="url(#mask-2)" stroke-width="12" xlink:href="#path-1"></use>
+                        <path d="M23.4796954,4.04678363 L23.4796954,61.350772" id="Path-19" stroke-width="6"></path>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                    <g id="window" transform="translate(63.961929, 0.000000)">
+                        <use id="Rectangle" mask="url(#mask-4)" stroke-width="12" xlink:href="#path-3"></use>
+                        <path d="M23.4796954,4.04678363 L23.4796954,61.350772" id="Path-19" stroke-width="6"></path>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                    <g id="window" transform="translate(128.733503, 0.000000)">
+                        <use id="Rectangle" mask="url(#mask-6)" stroke-width="12" xlink:href="#path-5"></use>
+                        <path d="M23.4796954,4.04678363 L23.4796954,61.350772" id="Path-19" stroke-width="6"></path>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                </g>
+                <g id="windows__right" transform="translate(293.091371, 324.552047)">
+                    <g id="window">
+                        <use id="Rectangle" mask="url(#mask-8)" stroke-width="12" xlink:href="#path-7"></use>
+                        <path d="M23.4796954,4.04678363 L23.4796954,61.350772" id="Path-19" stroke-width="6"></path>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                    <g id="window" transform="translate(63.961929, 0.000000)">
+                        <use id="Rectangle" mask="url(#mask-10)" stroke-width="12" xlink:href="#path-9"></use>
+                        <path d="M23.4796954,4.04678363 L23.4796954,61.350772" id="Path-19" stroke-width="6"></path>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                    <g id="window" transform="translate(128.733503, 0.000000)">
+                        <use id="Rectangle" mask="url(#mask-12)" stroke-width="12" xlink:href="#path-11"></use>
+                        <path d="M23.4796954,4.04678363 L23.4796954,61.350772" id="Path-19" stroke-width="6"></path>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                </g>
+                <g id="windows__left" transform="translate(65.581218, 211.242105)">
+                    <g id="window">
+                        <use id="Rectangle" mask="url(#mask-14)" stroke-width="12" xlink:href="#path-13"></use>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                    <g id="window" transform="translate(63.961929, 0.000000)">
+                        <use id="Rectangle" mask="url(#mask-16)" stroke-width="12" xlink:href="#path-15"></use>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                    <g id="window" transform="translate(128.733503, 0.000000)">
+                        <use id="Rectangle" mask="url(#mask-18)" stroke-width="12" xlink:href="#path-17"></use>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                </g>
+                <g id="windows__right" transform="translate(293.091371, 211.242105)">
+                    <g id="window">
+                        <use id="Rectangle" mask="url(#mask-20)" stroke-width="12" xlink:href="#path-19"></use>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                    <g id="window" transform="translate(63.961929, 0.000000)">
+                        <use id="Rectangle" mask="url(#mask-22)" stroke-width="12" xlink:href="#path-21"></use>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                    <g id="window" transform="translate(128.733503, 0.000000)">
+                        <use id="Rectangle" mask="url(#mask-24)" stroke-width="12" xlink:href="#path-23"></use>
+                        <path d="M3.23857868,42.8959064 L44.1365475,42.8959064" id="Path-23" stroke-width="6"></path>
+                    </g>
+                </g>
+                <path d="M0,663.672515 L534.582515,663.672515" id="Path-24" stroke-width="6"></path>
+                <path d="M47.8745999,292.987135 L491.049492,292.987135" id="Line" stroke-width="6" stroke-linecap="square"></path>
+                <path d="M48.5786802,309.174269 L491.753573,309.174269" id="Line" stroke-width="6" stroke-linecap="square"></path>
+                <polyline id="chimney" stroke-width="6" points="81.0674803 164.799694 81.0674803 125.7872 120.565574 125.7872 120.565574 164.327436"></polyline>
+                <path d="M101.532953,110.696722 C92.8537413,83.1622433 112.437374,99.4232952 120.776641,81.609674 C126.338478,69.7289578 94.3742261,63.0060302 96.5323719,80.9132597 C96.6532007,81.9158373 97.818047,82.7415576 98.8146883,82.9063719 C102.986589,83.5962779 107.267287,83.5822845 111.491374,83.3870259 C119.161915,83.0324549 124.436121,77.9433026 126.503801,70.5289955 C130.796278,55.1369933 110.744622,29.0250057 96.0665058,44.797981 C94.5044442,46.4765589 97.7833932,48.2511019 98.5090972,48.32705 C102.885584,48.7850686 107.308088,48.8721162 111.705074,48.6987558 C116.249817,48.5195698 120.839675,48.2786062 125.275026,47.2717473 C127.267929,46.819343 129.327416,45.916167 130.685911,44.3899591 C158.509995,13.1308521 125.706308,-4.93693081 94.4295636,1.19518011" id="Path-26" stroke-width="6"></path>
+                <polyline id="Path-18" stroke-width="6" points="46.1580596 662.026542 46.1580596 165.742182 244.926577 165.742182 269.002874 219.318326"></polyline>
+                <polyline id="Path-18" stroke-width="6" points="492.175886 663.15575 492.175886 165.588666 293.407369 165.588666 269.331072 219.164809"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
