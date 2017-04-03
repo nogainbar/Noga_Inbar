@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3008px" height="3008px" viewBox="0 0 3008 3008" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #2A3053;">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>neighboursBIG2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polyline id="path-1" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 -4.1658621e-14 30.8705882 -4.26325641e-14 27.6977281"></polyline>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <polyline id="path-3" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 9.73943148e-16 30.8705882 0 27.6977281"></polyline>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <polyline id="path-5" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 -4.1658621e-14 30.8705882 -4.26325641e-14 27.6977281"></polyline>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <polyline id="path-7" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 9.73943148e-16 30.8705882 0 27.6977281"></polyline>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <polyline id="path-9" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 -4.1658621e-14 30.8705882 -4.26325641e-14 27.6977281"></polyline>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <polyline id="path-11" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 9.73943148e-16 30.8705882 0 27.6977281"></polyline>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <polyline id="path-13" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 9.73943148e-16 30.8705882 0 27.6977281"></polyline>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <polyline id="path-15" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 9.73943148e-16 30.8705882 0 27.6977281"></polyline>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <polyline id="path-17" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 9.73943148e-16 30.8705882 0 27.6977281"></polyline>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <polyline id="path-19" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 9.73943148e-16 30.8705882 0 27.6977281"></polyline>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <polyline id="path-21" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 9.73943148e-16 30.8705882 0 27.6977281"></polyline>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-21"></use>
+        </mask>
+        <polyline id="path-23" points="6.74060986 2.00130543 9.68 0.582952386 9.68 26.3414946 9.73943148e-16 30.8705882 0 27.6977281"></polyline>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.68" height="30.2876358" fill="white">
+            <use xlink:href="#path-23"></use>
+        </mask>
+        <polyline id="path-25" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 9.37927623e-13 111.733411 9.34363698e-13 100.118231"></polyline>
+        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-25"></use>
+        </mask>
+        <polyline id="path-27" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 3.56392553e-15 111.733411 0 100.118231"></polyline>
+        <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-27"></use>
+        </mask>
+        <polyline id="path-29" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 9.37927623e-13 111.733411 9.34363698e-13 100.118231"></polyline>
+        <mask id="mask-30" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-29"></use>
+        </mask>
+        <polyline id="path-31" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 3.56392553e-15 111.733411 0 100.118231"></polyline>
+        <mask id="mask-32" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-31"></use>
+        </mask>
+        <polyline id="path-33" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 9.37927623e-13 111.733411 9.34363698e-13 100.118231"></polyline>
+        <mask id="mask-34" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-33"></use>
+        </mask>
+        <polyline id="path-35" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 3.56392553e-15 111.733411 0 100.118231"></polyline>
+        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-35"></use>
+        </mask>
+        <polyline id="path-37" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 3.56392553e-15 111.733411 0 100.118231"></polyline>
+        <mask id="mask-38" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-37"></use>
+        </mask>
+        <polyline id="path-39" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 3.56392553e-15 111.733411 0 100.118231"></polyline>
+        <mask id="mask-40" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-39"></use>
+        </mask>
+        <polyline id="path-41" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 3.56392553e-15 111.733411 0 100.118231"></polyline>
+        <mask id="mask-42" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-41"></use>
+        </mask>
+        <polyline id="path-43" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 3.56392553e-15 111.733411 0 100.118231"></polyline>
+        <mask id="mask-44" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-43"></use>
+        </mask>
+        <polyline id="path-45" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 3.56392553e-15 111.733411 0 100.118231"></polyline>
+        <mask id="mask-46" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-45"></use>
+        </mask>
+        <polyline id="path-47" points="24.6657432 6.04897973 35.4217792 0.856684629 35.4217792 95.1533428 3.56392553e-15 111.733411 0 100.118231"></polyline>
+        <mask id="mask-48" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35.4217792" height="110.876727" fill="white">
+            <use xlink:href="#path-47"></use>
+        </mask>
+    </defs>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy" transform="translate(-281.000000, -205.000000)">
+            <g id="Group" transform="translate(673.000000, 1051.000000)">
+                <g id="clear-sans-thing" transform="translate(0.000000, 898.000000)">
+                    <g id="Group-5">
+                        <text id="EIGHBOURS" font-family="ClearSans-Thin, Clear Sans Thin" font-size="310" font-style="condensed" font-weight="normal" letter-spacing="-1.10714281" fill="#FFFFFF">
+                            <tspan x="395.516939" y="334">EIGHBOURS</tspan>
+                        </text>
+                        <g id="BUILDING" transform="translate(215.000000, 119.000000)" stroke="#FFFFFF">
+                            <g id="N">
+                                <polyline id="Path-5" stroke-width="13" points="0 217.965576 1.36398801e-14 0.49990108 72.4400156 30.3411895 72.4400156 245.500977 142.456257 215.605471 142.456257 3.7857315"></polyline>
+                                <g id="windows_top_left" transform="translate(37.464000, 50.441176) scale(-1, 1) translate(-37.464000, -50.441176) translate(20.464000, 28.941176)" stroke-width="6">
+                                    <g id="window" transform="translate(0.000000, 11.576471)">
+                                        <use id="Rectangle-3" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                                    </g>
+                                    <g id="window" transform="translate(23.232000, 0.000000)">
+                                        <use id="Rectangle-3" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                                    </g>
+                                </g>
+                                <g id="windows_top_left" transform="translate(37.464000, 105.429412) scale(-1, 1) translate(-37.464000, -105.429412) translate(20.464000, 83.929412)" stroke-width="6">
+                                    <g id="window" transform="translate(0.000000, 11.576471)">
+                                        <use id="Rectangle-3" mask="url(#mask-6)" xlink:href="#path-5"></use>
+                                    </g>
+                                    <g id="window" transform="translate(23.232000, 0.000000)">
+                                        <use id="Rectangle-3" mask="url(#mask-8)" xlink:href="#path-7"></use>
+                                    </g>
+                                </g>
+                                <g id="windows_top_left" transform="translate(37.464000, 164.276471) scale(-1, 1) translate(-37.464000, -164.276471) translate(20.464000, 142.776471)" stroke-width="6">
+                                    <g id="window" transform="translate(0.000000, 11.576471)">
+                                        <use id="Rectangle-3" mask="url(#mask-10)" xlink:href="#path-9"></use>
+                                    </g>
+                                    <g id="window" transform="translate(23.232000, 0.000000)">
+                                        <use id="Rectangle-3" mask="url(#mask-12)" xlink:href="#path-11"></use>
+                                    </g>
+                                </g>
+                                <g id="windows_top_left" transform="translate(92.568000, 28.941176)" stroke-width="6">
+                                    <g id="window" transform="translate(0.000000, 11.576471)">
+                                        <use id="Rectangle-3" mask="url(#mask-14)" xlink:href="#path-13"></use>
+                                    </g>
+                                    <g id="window" transform="translate(23.232000, 0.000000)">
+                                        <use id="Rectangle-3" mask="url(#mask-16)" xlink:href="#path-15"></use>
+                                    </g>
+                                </g>
+                                <g id="windows_top_left" transform="translate(92.568000, 83.929412)" stroke-width="6">
+                                    <g id="window" transform="translate(0.000000, 11.576471)">
+                                        <use id="Rectangle-3" mask="url(#mask-18)" xlink:href="#path-17"></use>
+                                    </g>
+                                    <g id="window" transform="translate(23.232000, 0.000000)">
+                                        <use id="Rectangle-3" mask="url(#mask-20)" xlink:href="#path-19"></use>
+                                    </g>
+                                </g>
+                                <g id="windows_top_left" transform="translate(92.568000, 142.776471)" stroke-width="6">
+                                    <g id="window" transform="translate(0.000000, 11.576471)">
+                                        <use id="Rectangle-3" mask="url(#mask-22)" xlink:href="#path-21"></use>
+                                    </g>
+                                    <g id="window" transform="translate(23.232000, 0.000000)">
+                                        <use id="Rectangle-3" mask="url(#mask-24)" xlink:href="#path-23"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="BUILDING" transform="translate(849.000000, 0.000000)" stroke-width="20" stroke="#FFFFFF">
+                    <g id="N">
+                        <polyline id="Path-5" points="0 796.649195 4.99120682e-14 0.552651094 265.077917 109.795393 265.077917 897.450564 521.28658 788.009342 521.28658 12.5813919"></polyline>
+                        <g id="windows_top_left" transform="translate(138.298738, 183.447619) scale(-1, 1) translate(-138.298738, -183.447619) translate(77.298738, 105.947619)">
+                            <g id="window" transform="translate(0.000000, 42.379048)">
+                                <use id="Rectangle-3" mask="url(#mask-26)" xlink:href="#path-25"></use>
+                            </g>
+                            <g id="window" transform="translate(85.012270, 0.000000)">
+                                <use id="Rectangle-3" mask="url(#mask-28)" xlink:href="#path-27"></use>
+                            </g>
+                        </g>
+                        <g id="windows_top_left" transform="translate(138.298738, 384.748096) scale(-1, 1) translate(-138.298738, -384.748096) translate(77.298738, 307.248096)">
+                            <g id="window" transform="translate(0.000000, 42.379048)">
+                                <use id="Rectangle-3" mask="url(#mask-30)" xlink:href="#path-29"></use>
+                            </g>
+                            <g id="window" transform="translate(85.012270, 0.000000)">
+                                <use id="Rectangle-3" mask="url(#mask-32)" xlink:href="#path-31"></use>
+                            </g>
+                        </g>
+                        <g id="windows_top_left" transform="translate(138.298738, 600.174923) scale(-1, 1) translate(-138.298738, -600.174923) translate(77.298738, 522.674923)">
+                            <g id="window" transform="translate(0.000000, 42.379048)">
+                                <use id="Rectangle-3" mask="url(#mask-34)" xlink:href="#path-33"></use>
+                            </g>
+                            <g id="window" transform="translate(85.012270, 0.000000)">
+                                <use id="Rectangle-3" mask="url(#mask-36)" xlink:href="#path-35"></use>
+                            </g>
+                        </g>
+                        <g id="windows_top_left" transform="translate(338.731741, 105.947619)">
+                            <g id="window" transform="translate(0.000000, 42.379048)">
+                                <use id="Rectangle-3" mask="url(#mask-38)" xlink:href="#path-37"></use>
+                            </g>
+                            <g id="window" transform="translate(85.012270, 0.000000)">
+                                <use id="Rectangle-3" mask="url(#mask-40)" xlink:href="#path-39"></use>
+                            </g>
+                        </g>
+                        <g id="windows_top_left" transform="translate(338.731741, 307.248096)">
+                            <g id="window" transform="translate(0.000000, 42.379048)">
+                                <use id="Rectangle-3" mask="url(#mask-42)" xlink:href="#path-41"></use>
+                            </g>
+                            <g id="window" transform="translate(85.012270, 0.000000)">
+                                <use id="Rectangle-3" mask="url(#mask-44)" xlink:href="#path-43"></use>
+                            </g>
+                        </g>
+                        <g id="windows_top_left" transform="translate(338.731741, 522.674923)">
+                            <g id="window" transform="translate(0.000000, 42.379048)">
+                                <use id="Rectangle-3" mask="url(#mask-46)" xlink:href="#path-45"></use>
+                            </g>
+                            <g id="window" transform="translate(85.012270, 0.000000)">
+                                <use id="Rectangle-3" mask="url(#mask-48)" xlink:href="#path-47"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
