@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="616px" height="786px" viewBox="0 0 616 786" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Neighbours" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" fill="#FFFFFF" x="-64" y="-37" width="1411" height="856"></rect>
+        <g id="Group-2" transform="translate(-308.000000, -55.000000)">
+            <polyline id="Path-31" stroke="#120079" stroke-width="6" points="323.164535 804.711775 323.164535 282.041017 920.382939 282.041017 920.382939 805.581038"></polyline>
+            <path d="M325.813126,320.756546 L921.523188,320.756546" id="Path-35" stroke="#120079" stroke-width="6"></path>
+            <polyline id="Path-36" stroke="#120079" stroke-width="6" points="642.662443 322.383664 642.662443 753.883456 920.087856 802.8451 320.515731 802.8451"></polyline>
+            <path d="M590.900213,803.234091 L590.900213,320.420016" id="Path-3" stroke="#120079" stroke-width="6"></path>
+            <g id="neighbours__whole" transform="translate(347.260746, 345.410993)">
+                <g id="postman" transform="translate(0.000000, 30.961072)">
+                    <g id="head" stroke="#120079" stroke-width="2">
+                        <path d="M68.9524565,120.542638 C68.9524565,120.542638 78.5245473,155.6753 103.839769,141.863986" id="mouth"></path>
+                        <g id="hair">
+                            <g id="hat">
+                                <polyline id="Path-2" points="0 41.4096889 185.418102 41.4096889 154.562714 64.5242909"></polyline>
+                                <polyline id="Path-29" points="46.9633629 41.9833204 51.2320847 18.7321648 169.49197 0.538298247 154.844715 41.29295"></polyline>
+                            </g>
+                        </g>
+                        <g id="eyes" transform="translate(65.487807, 60.105306)">
+                            <ellipse id="Oval" cx="6.82184902" cy="7.37941892" rx="6.82184902" ry="7.37941892"></ellipse>
+                            <ellipse id="Oval" cx="43.2050438" cy="7.37941892" rx="6.82184902" ry="7.37941892"></ellipse>
+                        </g>
+                    </g>
+                    <polygon id="shirt" fill="#120079" opacity="0.35" points="46.9837475 128.570841 24.4625895 316.637186 158.687211 316.457975 148.007309 126.798643 101.504761 208.834632"></polygon>
+                    <polyline id="body" stroke="#120079" stroke-width="2" points="44.1663349 53.6289125 10.6832609 331.452236 176.609684 331.452236 154.879458 63.926291"></polyline>
+                    <g id="legs" transform="translate(62.154624, 336.055552)" stroke="#120079" stroke-width="2">
+                        <path d="M1.59370832,1.59268034 L1.59370832,92.2342931" id="Path-20"></path>
+                        <path d="M58.9672078,0 L58.9672078,90.6416127" id="Path-20"></path>
+                    </g>
+                    <g id="box" transform="translate(113.153291, 154.489993)" stroke="#120079" stroke-width="2">
+                        <path d="M0,29.5239349 L7.79872588e-15,155.022536 L149.855313,155.022536 C149.855313,155.022536 150.492275,29.8824702 149.855313,29.7032025 C149.218351,29.5239349 120.24246,-6.00286067e-14 120.24246,-6.00286067e-14 L30.4849106,-7.10542736e-14 L0,29.5239349 Z" id="Path-32" fill="#FFFFFF"></path>
+                        <g id="Group" transform="translate(0.000000, 1.406150)">
+                            <path d="M0.122043825,28.1230043 L149.509974,28.1230043" id="Path-33"></path>
+                            <path d="M74.299272,0 L74.299272,28.7144151" id="Path-34"></path>
+                        </g>
+                    </g>
+                    <path d="M48.0826075,184.471748 L177.581232,240.397827" id="hand" stroke="#120079" stroke-width="2"></path>
+                </g>
+                <g id="neighbour__2__fullbody" transform="translate(302.804580, 0.000000)">
+                    <g id="head" transform="translate(11.155958, 0.000000)" stroke="#120079" stroke-width="2">
+                        <g id="eyes" transform="translate(66.241284, 108.691836)">
+                            <ellipse id="Oval" cx="6.62412843" cy="7.19493345" rx="6.62412843" ry="7.19493345"></ellipse>
+                            <ellipse id="Oval" cx="41.9528134" cy="7.19493345" rx="6.62412843" ry="7.19493345"></ellipse>
+                        </g>
+                        <path d="M92.3217755,169.997415 C92.3217755,169.997415 121.124907,177.124753 126.922653,154.378119" id="mouth"></path>
+                        <g id="hair">
+                            <path d="M28.9645451,121.454065 L16.0083104,185.622278" id="Path-9"></path>
+                            <path d="M24.916586,85.4256939 L0.320242962,135.602608" id="Path-10"></path>
+                            <path d="M163.004631,93.5573751 L173.758043,155.418575" id="Path-11"></path>
+                            <path d="M157.751361,64.5068167 L197.090988,105.794936" id="Path-12"></path>
+                            <path d="M18.0005663,27.1680586 L46.2999751,68.8420147" id="Path-13"></path>
+                            <path d="M77.9394039,0.0576014324 L92.3849904,57.2305272" id="Path-14"></path>
+                            <path d="M178.02746,27.542975 L131.956967,59.3963062" id="Path-15"></path>
+                        </g>
+                    </g>
+                    <g id="body" transform="translate(35.061583, 99.287555)">
+                        <polygon id="shirt" fill="#120079" opacity="0.35" points="45.352746 89.4898936 12.7437488 244.493223 92.6836124 246.302401 100.944027 204.921718 128.554648 244.325391 193.100879 244.931295 128.261463 60.9014652 86.6064294 142.641613"></polygon>
+                        <polyline id="Path-19" stroke="#120079" stroke-width="2" points="27.8250507 38.3575468 0.0828845644 260.589394 208.290034 260.589394 119.05821 0.109241141"></polyline>
+                    </g>
+                    <g id="legs" transform="translate(108.372166, 367.016624)" stroke="#120079" stroke-width="2">
+                        <path d="M1.59370832,1.59268034 L1.59370832,92.2342931" id="Path-20"></path>
+                        <path d="M58.9672078,0 L58.9672078,90.6416127" id="Path-20"></path>
+                    </g>
+                    <g id="hands" transform="translate(0.000000, 207.748590)" stroke="#120079" stroke-width="2">
+                        <path d="M174.490662,8.91195484 L86.2218291,71.8678543" id="Path-25"></path>
+                        <path d="M54.9893902,0.546109453 L0.359438038,56.1521826" id="Path-27"></path>
+                    </g>
+                </g>
+            </g>
+            <polygon id="Triangle-4" fill="#6956FD" opacity="0.224014946" transform="translate(461.408955, 543.817346) rotate(-32.000000) translate(-461.408955, -543.817346) " points="590.584863 48.4028502 694.78522 1039.23184 228.03269 741.709166"></polygon>
+        </g>
+    </g>
+</svg>
