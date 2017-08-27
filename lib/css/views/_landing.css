@@ -60,11 +60,11 @@
 
 .arrow_wrapper {
   margin-top: 39vh;
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 40em) {
     margin-top: 59vh;
   }
-  // large
+  /*// large*/
   @media screen and (min-width: 40em) {
     margin-top: 63vh;
   }

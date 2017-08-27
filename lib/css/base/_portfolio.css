@@ -22,7 +22,7 @@
   @media screen and (min-width: 30em) and (max-width: 60em) {
     height: 80vh;
   }
-  // large
+  /*// large*/
   @media screen and (min-width: 60em) {
     height: 100vh;
   }
@@ -35,11 +35,11 @@
    p {
      color: #999999;
    }
-   // medium
+   /*// medium*/
    @media screen and (min-width: 30em) and (max-width: 60em) {
      padding: 0 50px 50px 50px;
     }
-   // large
+   /*// large*/
    @media screen and (min-width: 60em) {
      padding: 0 50px 50px 50px;
    }
@@ -55,11 +55,11 @@
     img {
       width: 100%;
     }
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 40em) {
     padding: 50px;
   }
-  // large
+  /*// large*/
   @media screen and (min-width: 40em) {
     padding: 75px;
   }
@@ -70,7 +70,7 @@
   font-size: 50px;
   text-align: center;
   font-family: $work-sans;
-  // font-family: $rubik;
+  /*// font-family: $rubik;*/
   font-weight: 200;
   color: #BFBFBA;
   padding-top: 6%;
@@ -79,15 +79,15 @@
 .h-prj {
   font-family: $work-sans;
   color: #130074;
-  // default
+  /*// default*/
   font-size: 40px;
   font-weight: 300;
   margin-bottom: 20px;
-    // medium
+    /*// medium*/
     @media screen and (min-width: 30em) and (max-width: 60em) {
       font-size: 40px;
     }
-    // large
+    /*// large*/
     @media screen and (min-width: 60em) {
       font-size: 60px;
     }
