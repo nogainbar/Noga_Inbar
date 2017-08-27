@@ -48,7 +48,6 @@
 
 /* custom variables */
 @import './_variables';
-@import './_custom';
 @import "./base/_reset";
 @import "./base/_colors";
 @import "./base/_fonts";
