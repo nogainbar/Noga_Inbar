@@ -7,14 +7,14 @@
     img {
       width: 100%;
     }
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 40em) {
     padding: 50px;
     img {
       width: 80%;
     }
   }
-  // large
+  /*// large*/
   @media screen and (min-width: 40em) {
     padding: 75px;
     img {
@@ -27,11 +27,11 @@
   padding-top: 10%;
   padding-bottom: 10%;
   max-width: 400px;
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 40em) {
     padding-top: 20%;
   }
-  // large
+  /*// large*/
   @media screen and (min-width: 40em) {
     padding-top: 35%;
   }
@@ -40,11 +40,11 @@
 #building-colours {
   z-index: -99;
   width: 100%;
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 40em) {
     width: 60%;
   }
-  // large
+  /*// large*/
   @media screen and (min-width: 40em) {
     width: 70%;
   }
@@ -53,11 +53,11 @@
 #illustrations-first {
   z-index: -99;
   width: 100%;
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 40em) {
     width: 50%;
   }
-  // large
+  /*// large*/
   @media screen and (min-width: 40em) {
     width: 60%;
   }
@@ -66,11 +66,11 @@
 .icons {
   z-index: -99;
   width: 100%;
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 40em) {
     width: 80%;
   }
-  // large
+  /*// large*/
   @media screen and (min-width: 40em) {
     width: 70%;
   }
@@ -83,11 +83,11 @@
   font-weight: 200;
   color: #BFBFBA;
   padding-bottom: 10px;
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 60em) {
     font-size: 40px;
   }
-  // large
+  /*// large*/
   @media screen and (min-width: 60em) {
     font-size: 50px;
   }

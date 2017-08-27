@@ -44,12 +44,12 @@ form {
         }
       }
 
-      // MediaQ
-      //medium
+      /*// MediaQ*/
+      /*//medium*/
       @media screen and (min-width: 30em) and (max-width: 60em) {
         width: 400px;
        }
-      // large
+      /*// large*/
       @media screen and (min-width: 60em) {
       width: 500px;
       }

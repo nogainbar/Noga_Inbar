@@ -4,8 +4,9 @@
   "description": "noga inbar personal portfolio website",
   "main": "server.js",
   "scripts": {
-    "sass": "sass --watch public/css/sass/main.scss:public/css/main.css",
-    "start": "node lib/index.js"
+    "start": "node lib/index.js",
+    "css-watch": "postcss ./lib/css/index.css --output ./public/css/style.min.css --watch --config ./postcss.config.js",
+    "dev": "nodemon lib/index.js & npm run css-watch"
   },
   "repository": {
     "type": "git",
@@ -25,9 +26,19 @@
     "handlebars": "^4.0.6",
     "hapi": "^16.1.0",
     "inert": "^4.1.0",
+    "tachyons-custom": "^4.6.0",
     "vision": "^4.1.1"
   },
   "devDependencies": {
-    "tachyons": "^4.7.0"
+    "autoprefixer": "^7.1.2",
+    "nodemon": "^1.11.0",
+    "postcss": "^5.0.14",
+    "postcss-clean": "^1.0.3",
+    "postcss-cli": "^4.1.0",
+    "postcss-custom-media": "^6.0.0",
+    "postcss-custom-properties": "^6.1.0",
+    "postcss-import": "^10.0.0",
+    "postcss-nested": "^2.1.2",
+    "postcss-simple-vars": "^4.1.0"
   }
 }

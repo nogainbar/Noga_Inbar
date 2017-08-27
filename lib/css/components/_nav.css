@@ -1,4 +1,4 @@
-// js
+/*// js*/
 .wrapperNav {
   height: 200px;
   max-width: 1410px;
@@ -31,7 +31,7 @@
   }
 }
 
-// html
+/*// html*/
 .nav {
   display: block;
   width: 100%;
@@ -46,19 +46,19 @@
 }
 
 
-// logo
+/*// logo*/
 .logo {
   width: 100%;
   display: block;
   vertical-align: middle;
   text-align: center;
 
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 60em) {
     width: 60%;
     display: table-cell;
   }
-  // large
+  /*// large*/
   @media screen and (min-width: 60em) {
     width: 26%;
     display: table-cell;
@@ -66,18 +66,18 @@
 }
 
 
-// nav items
+/*// nav items*/
 .nav-items {
   display: block;
   vertical-align: middle;
   width: 100%;
   text-align: center;
   margin-top: 20px;
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 60em) {
     display: block;;
   }
-  // large
+  /*// large*/
   @media screen and (min-width: 60em) {
     display: table-cell;
     width: 75%;
@@ -87,10 +87,10 @@
 
 .portfolio {
   padding-right: 20px;
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 60em) {
     padding-right: 80px; }
-  // large
+  /*// large*/
   @media screen and (min-width: 60em) {
     padding-right: 80px;
   }
@@ -99,10 +99,10 @@
 .about {
   padding-right: 20px;
 
-  // medium
+  /*// medium*/
   @media screen and (min-width: 30em) and (max-width: 60em) {
     padding-right: 80px; }
-  // large
+  /*// large*/
   @media screen and (min-width: 60em) {
     padding-right: 80px;
   }
