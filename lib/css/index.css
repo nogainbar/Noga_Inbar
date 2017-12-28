@@ -56,6 +56,14 @@
 @import "./views/_landing";
 @import "./views/_neighbours";
 @import "./views/_bwm";
+@import "./views/_higglers";
+@import "./views/_grow";
+@import "./views/_higglers";
+@import "./views/_illustrations";
+@import "./views/_islingtonll";
+@import "./views/_trailz";
+@import "./views/_workshops";
+@import "./views/_logos";
 @import "./views/_contact";
 @import "./views/_about";
 @import "./components/_nav";
