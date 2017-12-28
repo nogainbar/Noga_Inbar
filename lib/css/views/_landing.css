@@ -34,7 +34,7 @@
 
 .box-container-hover{
   width: 100%;
-  height: inherit;
+  height: 160px;
   display: flex;
 }
 
