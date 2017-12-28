@@ -58,29 +58,3 @@
      padding: 50 50px 50px 50px;
    }
 }
-
-#solution-txt {
-  text-align: left;
-  padding: 10px;
-  background-color: white;
-  p {
-    color: #999999;
-  }
-  /*// medium*/
-  @media screen and (min-width: 30em) and (max-width: 60em) {
-    padding: 15px;
-   }
-  /*// large*/
-  @media screen and (min-width: 60em) {
-    padding: 45px;
-  }
-}
-
-#bwm-solution-grafics {
-  width: 100%;
-
-  /*// large*/
-  @media screen and (min-width: 60em) {
-  width: 70%;
-  }
-}
