@@ -126,3 +126,13 @@
     padding: 45px;
   }
 }
+
+.invision p{
+  color: #999999;
+  font-size: 18px;
+}
+
+.invision_link {
+  color: #DC395F;
+  text-decoration: underline;
+}

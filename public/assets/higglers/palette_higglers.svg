@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="706" height="996" viewBox="0 0 706 996">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#FFF" points="0 0 1412 0 1412 996 0 996 0 86.223" opacity=".831"/>
+    <g transform="translate(79 243)">
+      <text fill="#272727" font-family="WorkSans-Bold, Work Sans" font-size="20" font-weight="bold" letter-spacing="-.071">
+        <tspan x="164" y="19">Higgler’s blue</tspan> <tspan x="164" y="43" font-family="WorkSans-Regular, Work Sans" font-weight="normal">Primary app colour</tspan>  <tspan x="164" y="91" font-family="WorkSans-Regular, Work Sans" font-weight="normal">#4990E2</tspan>  
+      </text>
+      <circle cx="50" cy="50" r="50" fill="#4990E2"/>
+      <g transform="translate(0 205)">
+        <text fill="#272727" font-family="WorkSans-Bold, Work Sans" font-size="20" font-weight="bold" letter-spacing="-.071">
+          <tspan x="164" y="19">Glowing green</tspan> <tspan x="164" y="43" font-family="WorkSans-Regular, Work Sans" font-weight="normal">Accent colour</tspan>  <tspan x="164" y="91" font-family="WorkSans-Regular, Work Sans" font-weight="normal">#00CAAF</tspan> 
+        </text>
+        <circle cx="50" cy="50" r="50" fill="#00CAAF"/>
+      </g>
+      <g transform="translate(0 410)">
+        <text fill="#272727" font-family="WorkSans-Bold, Work Sans" font-size="20" font-weight="bold" letter-spacing="-.071">
+          <tspan x="164" y="19">Higgler’s black</tspan> <tspan x="164" y="43" font-family="WorkSans-Regular, Work Sans" font-weight="normal">Components</tspan>  <tspan x="164" y="91" font-family="WorkSans-Regular, Work Sans" font-weight="normal">#333333</tspan>
+        </text>
+        <circle cx="50" cy="50" r="50" fill="#333"/>
+      </g>
+    </g>
+  </g>
+</svg>
