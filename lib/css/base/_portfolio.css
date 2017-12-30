@@ -76,6 +76,16 @@
   padding-top: 6%;
 }
 
+.project-header-small {
+  font-size: 30px;
+  text-align: center;
+  font-family: $work-sans;
+  /*// font-family: $rubik;*/
+  font-weight: 200;
+  color: #130074;
+  padding-top: 6%;
+}
+
 .h-prj {
   font-family: $work-sans;
   color: #130074;
